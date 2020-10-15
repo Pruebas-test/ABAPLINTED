@@ -1,5 +1,5 @@
 ![Run abaplint](https://github.com/sbcgua/abaplinted_sample/workflows/Run%20abaplint/badge.svg)
-[![Build Status](https://travis-ci.org/sbcgua/abaplinted_sample.svg?branch=master)](https://travis-ci.org/sbcgua/abaplinted_sample)
+[![Build Status](https://travis-ci.org/Pruebas-test/ABAPLINTED.svg?branch=master)](https://travis-ci.org/github/Pruebas-test/ABAPLINTED)
 
 # Example of automatic abaplint execution via travis CI for ABAP project
 
