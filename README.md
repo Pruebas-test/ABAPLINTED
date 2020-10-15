@@ -16,6 +16,3 @@ Also
 - See "build failing" banners at the top (click it)
 - See pull requests - the one available has also a failed with check
 
-## Older versions
-
-Original code for the post moved to [version-2018-12](https://github.com/sbcgua/abaplinted_sample/tree/version-2018-12) branch. Current version uses the updated `abaplint` installation procedure and new version of config.
