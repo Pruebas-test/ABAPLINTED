@@ -1,3 +1,4 @@
+![Run abaplint](https://github.com/Pruebas-test/ABAPLINTED/workflows/Run%20abaplint/badge.svg)
 [![Build Status](https://travis-ci.org/Pruebas-test/ABAPLINTED.svg?branch=master)](https://travis-ci.org/github/Pruebas-test/ABAPLINTED)
 
 # Example of automatic abaplint execution via travis CI for ABAP project
